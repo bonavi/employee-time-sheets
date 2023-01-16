@@ -1,12 +1,11 @@
-## Необходимо реализовать средствами SQL вывод табеля рабочего времени
-сотрудников организации за месяц
-рабочие смены сотрудников представлены в таблице timework
+## Необходимо реализовать средствами SQL вывод табеля рабочего временисотрудников организации за месяц
+Рабочие смены сотрудников представлены в таблице timework
 
-![alt text](https://gitlab.com/my-test-assignments1/time-sheet/-/blob/main/TimeworkTable.png)
+![TimeworkTable.png](TimeworkTable.png)
 
 Табель рабочего времени должен быть представлен в следующем виде
 
-![alt text](https://gitlab.com/my-test-assignments1/time-sheet/-/blob/main/TimeSheet.png)
+![TimeSheet.png](TimeSheet.png)
 
 
 Структура таблицы:
